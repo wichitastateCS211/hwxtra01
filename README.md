@@ -28,6 +28,7 @@ rabbit
 ```
 
 ## Hints
+- How you read the words in will determine how simply the "just press Enter" method of indicating you are finished is to implement.
 - Recall that by default strings are sorted in lexicographical order.
 - Reall further lexicographical is identical to alphabetical if both words are completely upper case or lower case.
 
